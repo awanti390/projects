@@ -1,4 +1,4 @@
-Smart Forest Boundary & Bioacoustic Protection System
+#Smart Forest Boundary & Bioacoustic Protection System
 
 This project introduces an intelligent forest-monitoring solution that integrates IoT, AI, and Machine Learning to protect forest ecosystems and reduce human–wildlife conflict. Using visual sensors, MEMS microphones, and LoRa-based communication, the system performs real-time detection of wildlife movement, human intrusion, and illegal activities such as chainsaw operation and poaching.
 
