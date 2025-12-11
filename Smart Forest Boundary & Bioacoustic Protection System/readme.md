@@ -4,4 +4,3 @@ This project introduces an intelligent forest-monitoring solution that integrate
 
 By combining image detection and bioacoustic sound classification, it provides accurate alerts while operating on low power and long range—making it suitable for large forest areas. The system aims to support forest officials with a cost-effective, energy-efficient, and scalable alternative to traditional patrolling and camera traps, ultimately enhancing conservation efforts and promoting ecological sustainability.
 
-![Uploading image.png…]()
