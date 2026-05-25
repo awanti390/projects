@@ -1,28 +1,62 @@
-# Employee-Attrition-Analysis
-This Power BI project focuses on analyzing employee attrition to help organizations understand the factors behind employee turnover and make data-driven decisions to improve retention.
+# 📊 Employee Attrition Analysis Dashboard
 
-🔍 Project Objective:
-To visualize and analyze key HR metrics to uncover patterns in employee attrition, such as which departments are most affected, which job roles have the highest turnover, and how various factors (e.g., age, job satisfaction, years at company) impact employee departure.
+## 📌 Project Overview
 
-📌 Key Features
-Interactive dashboard with filters for Department, Job Role, and Gender.
+The Employee Attrition Analysis Dashboard is a Power BI project designed to analyze employee turnover trends and help organizations make data-driven HR decisions to improve employee retention and workforce management.
 
-Insights into:
+The dashboard provides interactive visualizations and insights into employee attrition patterns across departments, job roles, age groups, and other important HR factors. It helps identify high-risk areas within the organization and supports strategic decision-making for improving employee satisfaction and reducing turnover.
 
-1. Attrition rate by department and job role.
+---
 
-2. Distribution of age, education, and work experience.
+## 🎯 Project Objective
 
-3. Correlation between attrition and factors like job satisfaction, overtime, and income.
+The primary objective of this project is to analyze and visualize key HR metrics to understand the factors contributing to employee attrition.
 
-Trend analysis and KPI cards for key metrics.
+The dashboard helps answer important business questions such as:
 
-📁 Tools & Technologies
-1. Power BI for data visualization and dashboard creation.
+- Which departments experience the highest attrition?
+- Which job roles have the highest employee turnover?
+- How do factors like age, overtime, job satisfaction, income, and years at the company affect attrition?
+- What trends and patterns can help improve employee retention strategies?
 
-2. DAX (Data Analysis Expressions) for calculated columns and measures.
+---
 
-3. Data Transformation using Power Query.
+## 🚀 Key Features
 
-📈 Use Case
-Useful for HR departments and business analysts aiming to reduce attrition by identifying high-risk segments and tailoring retention strategies accordingly.
+✅ Interactive Power BI dashboard  
+✅ Dynamic filters for Department, Job Role, and Gender  
+✅ Attrition analysis by department and job role  
+✅ Employee distribution based on age, education, and experience  
+✅ Analysis of overtime, job satisfaction, and monthly income  
+✅ KPI cards for key HR metrics  
+✅ Trend and comparative analysis using visual reports  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Power Query  
+- Data Cleaning & Transformation  
+- Data Visualization  
+
+
+
+<p align="center">
+  <img src="https://img.icons8.com/color/240/power-bi.png" width="180"/>
+  <img src="https://img.icons8.com/color/240/combo-chart--v1.png" width="180"/>
+  <img src="https://img.icons8.com/color/240/business-report.png" width="180"/>
+</p>
+
+---
+
+## 📈 Business Impact
+
+This project can help HR teams and business analysts:
+
+- Identify high-risk employee segments  
+- Improve employee retention strategies  
+- Understand workforce behavior and satisfaction  
+- Support data-driven HR decision-making  
+- Reduce attrition through actionable insights  
