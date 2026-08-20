@@ -97,23 +97,4 @@ Working on this project helped me improve my practical understanding of:
 
 ---
 
-## 📷 Dashboard Preview
-
-![Chocolate Sales Dashboard](dashboard.png)
-
----
-
-## 🚀 Conclusion
-
-This project gave me hands-on experience in converting raw sales data into a clear and interactive dashboard.
-
-It helped me understand how data visualization can make it easier to identify trends, compare performance, and generate insights that can support business decisions.
-
----
-
-## 👩‍💻 Author
-
-**Awanti Dumbhare**
-
-Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
